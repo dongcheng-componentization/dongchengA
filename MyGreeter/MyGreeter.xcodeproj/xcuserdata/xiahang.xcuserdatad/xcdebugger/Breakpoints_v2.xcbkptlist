@@ -3,4 +3,432 @@
    uuid = "6B48555E-DD8A-4CEB-B339-6F6B1BA4772A"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95A278BE-05B6-46ED-824D-FB5D5A4A228A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyGreeterTests/MyGreeterTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "-setUp"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "799E3220-A6DA-4375-A0D0-88A3BE5E334D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyGreeterTests/MyGreeterTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "-testExample"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDC1EFFF-ECFA-45AE-B16C-0910DF501D38"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyGreeterUITests/MyGreeterUITests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "-setUp"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE23E64F-E7AD-430A-B140-19D66BC46F64"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyGreeterUITests/MyGreeterUITests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "-tearDown"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09CB7970-E692-4BED-9782-FA16627F1648"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyGreeterUITests/MyGreeterUITests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "-testExample"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41D788C9-F9A5-44C4-9017-26CA388147BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyGreeterUITests/MyGreeterUITests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "-testLaunchPerformance"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "285348A3-9ADD-4824-A1DD-13852A4FF2D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyGreeterUITests/MyGreeterUITests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "-testLaunchPerformance"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07093C8C-F0E8-4726-9801-25814C63E33D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyGreeterTests/MyGreeterTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "-testPerformanceExample"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "07093C8C-F0E8-4726-9801-25814C63E33D - 69600f71e24d65cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyGreeterTests testPerformanceExample]"
+                  moduleName = "MyGreeterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiahang/Desktop/MyGreeter/MyGreeterTests/MyGreeterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "07093C8C-F0E8-4726-9801-25814C63E33D - a794ac2da03fbde2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__40-[MyGreeterTests testPerformanceExample]_block_invoke"
+                  moduleName = "MyGreeterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiahang/Desktop/MyGreeter/MyGreeterTests/MyGreeterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "424578E3-B5F1-42DE-97E0-75A8725B4CFB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyGreeterTests/MyGreeterTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "-tearDown"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAC98EA7-326E-4C23-B8C1-D9FC993D3FEF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyGreeterTests/MyGreeterTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "-testFunc2"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EAC98EA7-326E-4C23-B8C1-D9FC993D3FEF - e78e5ddda28a7981"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyGreeterTests testFunc2]"
+                  moduleName = "MyGreeterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiahang/Desktop/MyGreeter/MyGreeterTests/MyGreeterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "EAC98EA7-326E-4C23-B8C1-D9FC993D3FEF - e78e5ddda28a7981"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyGreeterTests testFunc2]"
+                  moduleName = "MyGreeterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiahang/Desktop/MyGreeter/MyGreeterTests/MyGreeterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "EAC98EA7-326E-4C23-B8C1-D9FC993D3FEF - e78e5ddda28a7981"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyGreeterTests testFunc2]"
+                  moduleName = "MyGreeterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiahang/Desktop/MyGreeter/MyGreeterTests/MyGreeterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "EAC98EA7-326E-4C23-B8C1-D9FC993D3FEF - e78e5ddda28a7981"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyGreeterTests testFunc2]"
+                  moduleName = "MyGreeterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiahang/Desktop/MyGreeter/MyGreeterTests/MyGreeterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "965">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E34D791F-0C89-4438-8DD3-CD5CAE592C19"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyGreeterTests/MyGreeterTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "-testFunc2"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E34D791F-0C89-4438-8DD3-CD5CAE592C19 - e78e5ddda28a78e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyGreeterTests testFunc2]"
+                  moduleName = "MyGreeterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiahang/Desktop/MyGreeter/MyGreeterTests/MyGreeterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "530">
+               </Location>
+               <Location
+                  uuid = "E34D791F-0C89-4438-8DD3-CD5CAE592C19 - e78e5ddda28a78e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyGreeterTests testFunc2]"
+                  moduleName = "MyGreeterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiahang/Desktop/MyGreeter/MyGreeterTests/MyGreeterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1778">
+               </Location>
+               <Location
+                  uuid = "E34D791F-0C89-4438-8DD3-CD5CAE592C19 - e78e5ddda28a78e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyGreeterTests testFunc2]"
+                  moduleName = "MyGreeterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiahang/Desktop/MyGreeter/MyGreeterTests/MyGreeterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "2224">
+               </Location>
+               <Location
+                  uuid = "E34D791F-0C89-4438-8DD3-CD5CAE592C19 - e78e5ddda28a78e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyGreeterTests testFunc2]"
+                  moduleName = "MyGreeterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiahang/Desktop/MyGreeter/MyGreeterTests/MyGreeterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "2317">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2FE6238-2202-4072-BB76-42BAF37B3ECB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyGreeterTests/MyGreeterTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "-testFunc2"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F2FE6238-2202-4072-BB76-42BAF37B3ECB - e78e5ddda28a786a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyGreeterTests testFunc2]"
+                  moduleName = "MyGreeterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiahang/Desktop/MyGreeter/MyGreeterTests/MyGreeterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1867">
+               </Location>
+               <Location
+                  uuid = "F2FE6238-2202-4072-BB76-42BAF37B3ECB - e78e5ddda28a786a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyGreeterTests testFunc2]"
+                  moduleName = "MyGreeterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiahang/Desktop/MyGreeter/MyGreeterTests/MyGreeterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "3142">
+               </Location>
+               <Location
+                  uuid = "F2FE6238-2202-4072-BB76-42BAF37B3ECB - e78e5ddda28a786a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyGreeterTests testFunc2]"
+                  moduleName = "MyGreeterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiahang/Desktop/MyGreeter/MyGreeterTests/MyGreeterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "3252">
+               </Location>
+               <Location
+                  uuid = "F2FE6238-2202-4072-BB76-42BAF37B3ECB - e78e5ddda28a786a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyGreeterTests testFunc2]"
+                  moduleName = "MyGreeterTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiahang/Desktop/MyGreeter/MyGreeterTests/MyGreeterTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "3354">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7394D42D-1113-4858-BFC1-3E0B22363EE4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyGreeter/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "-isBetweenFromHour:toHour:andCurrentTime:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

@@ -18,11 +18,13 @@
 
     // In UI tests it is usually best to stop immediately when a failure occurs.
     self.continueAfterFailure = NO;
+    [[[XCUIApplication alloc] init] launch];///为app对象分配内存并启动它
 
     // In UI tests it’s important to set the initial state - such as interface orientation - required for your tests before they run. The setUp method is a good place to do this.
 }
 
 - (void)tearDown {
+    [super tearDown];
     // Put teardown code here. This method is called after the invocation of each test method in the class.
 }
 
